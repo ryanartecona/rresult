@@ -1,0 +1,7 @@
+{
+  "name": "ocaml-rresult",
+  "sources": ["src"],
+  "bs-dependencies": [
+    "ocaml-result"
+  ]
+}

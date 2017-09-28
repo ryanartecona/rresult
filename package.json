@@ -1,0 +1,8 @@
+{
+  "name": "ocaml-rresult",
+  "private": true,
+  "version": "0.5.0",
+  "dependencies": {
+    "ocaml-result": "git://github.com/ryanartecona/result.git#bsb-native"
+  }
+}
